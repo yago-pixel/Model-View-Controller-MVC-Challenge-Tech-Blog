@@ -55,10 +55,6 @@ Then create an account or view the first few blogs and comments.
 
 Source link for [MIT](https://opensource.org/licenses/MIT)
 
-## Contributors
-
-Cody Gallagher
-
 ## Tests
 
 There are currently no tests for this application.  
